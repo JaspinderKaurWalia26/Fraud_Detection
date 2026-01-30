@@ -61,9 +61,9 @@ online-payment-fraud-detection/
 ---
 
 ## 🧠 Risk Classification Logic
-- **High Risk**: Transaction Amount > Mean + Standard Deviation  
-- **Medium Risk**: Transaction Amount > Mean  
-- **Low Risk**: Transaction Amount ≤ Mean  
+- **High Risk**: Amount > Mean + Standard Deviation  
+- **Medium Risk**: Amount > Mean  
+- **Low Risk**: Amount ≤ Mean  
 
 ---
 
